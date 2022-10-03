@@ -74,3 +74,4 @@ lo.graficar()
 
         
         
+#pruf
